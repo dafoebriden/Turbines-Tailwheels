@@ -1,3 +1,14 @@
 main {}
 
-head {}
+header {
+    background-color: black;
+}
+
+body {
+    background-color: white;
+}
+
+main {
+    background-color: red;
+
+}
