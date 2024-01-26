@@ -1,14 +1,16 @@
-main {}
-
 header {
     background-color: black;
 }
 
 body {
-    background-color: white;
+    background-color: green;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
 main {
-    background-color: red;
-
+    flex-grow: 1;
 }
+
+footer {}
